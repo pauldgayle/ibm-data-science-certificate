@@ -1,4 +1,4 @@
-## IBM Data Science Professional Certificate Repository
+# IBM Data Science Professional Certificate Repository
 
 Hello! My name is Paul Gayle, and this is the repository where all my projects towards my IBM Data Science Certificate
 
@@ -6,6 +6,6 @@ The IMB Data Science Professional Certificate has taught me the tools, languages
 
 While courses 1-5 were helpful, the subjects taught and projects submitted are easily reflected in the following course finals, 6-9.
 
-#  (WIP) Here are the projects attached to this repository, and the methods learned / used within each course
+## (WIP) Here are the projects attached to this repository, and the methods learned / used within each course
 Course 6:
 - 
